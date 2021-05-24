@@ -1,0 +1,13 @@
+navbar_entries:
+  - title: "showcase"
+    url: https://xyzzy.github.io
+
+  - title: "cpp2json <div class=\"GitHub-mark\"></div>"
+    url: https://github.com/xyzzy/cpp2json
+
+footer_entries:
+  - title: "showcase"
+    url: https://xyzzy.github.io
+
+  - title: "cpp2json <div class=\"GitHub-mark\"></div>"
+    url: https://github.com/xyzzy/cpp2json
