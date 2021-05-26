@@ -1,6 +1,6 @@
 ---
 layout: redirect
-redirect: https://xyzzy.github.io/cpp2json/
+redirect: README.html
 title: "cpp2json - Single statement JSON creation"
 image: assets/favimage-840x472.jpg
 ---
